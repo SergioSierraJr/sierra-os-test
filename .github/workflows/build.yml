@@ -21,7 +21,7 @@ env:
 jobs:
   build_push:
     name: Build and push image
-    runs-on: silverblue-main-latest
+    runs-on: silverbdqjwhdkqwjdkj
 
     permissions:
       contents: read
